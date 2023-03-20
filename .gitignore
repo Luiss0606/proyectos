@@ -207,6 +207,7 @@ instance/
 
 # Scrapy stuff:
 .scrapy
+.pickle
 
 # Sphinx documentation
 docs/_build/
